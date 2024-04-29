@@ -7,8 +7,7 @@ Include the date you created this project and README file.
 Replace the Project Title
 
 ### Description
-Describe what your project is about and what it does
-
+  I do not have anything in bikeshare.py. I was not in thecourse that it was given.
 ### Files used
 Include the files used
 
