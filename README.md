@@ -2,11 +2,10 @@
 
 ### Date created
 Include the date you created this project and README file.
-
 ### Project Title
 Bike Share 
 ### Description
-  I do not have anything in Bikeshare.py. I was not in thecourse that it was given.
+I do not have anything in Bikeshare.py. I was not in the course that it was given.
 ### Files used
 bikeshare.py 
 datafile.csv
